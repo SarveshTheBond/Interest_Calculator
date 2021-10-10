@@ -1,0 +1,28 @@
+{
+  "balanceDate": "2021-10-12T02:20:37.443Z",
+  "savingRequest": [
+    {
+        "bsb": 182182,
+        "identification": 111222333,
+        "balance": 200
+        },
+        
+       {
+        "bsb": 182182,
+        "identification": 111222444,
+        "balance": 200
+        },
+
+        {
+        "bsb": 182182,
+        "identification": 111222555,
+        "balance": 200
+        },
+
+        {
+        "bsb": 182182,
+        "identification": 111222666,
+        "balance": 0.00
+        }
+  ]
+}
