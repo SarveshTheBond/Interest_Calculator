@@ -26,7 +26,7 @@ $ git clone https://github.com/SarveshTheBond/Interest_Calculator.git
 
 
 ```
-$ cd returns_calculator
+$ cd interest_calculator
 $ mvn spring-boot:run
 
 ```
